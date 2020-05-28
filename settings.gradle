@@ -1,0 +1,2 @@
+rootProject.name='OttoEventBus_x'
+include ':app'
